@@ -1,10 +1,12 @@
 ## Hi 👩🏻‍💻☺️
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=360&text=Sumin+Koh&fontSize=70&fontAlign=50&fontAlignY=45&desc=AI+Engineering&descSize=30&descAlign=50&descAlignY=60)
+***
+
 ### ✍🏼 Major
 
 **Economics & Data Science**
-
+***
 
 
 ### 🦾 Skills
@@ -16,7 +18,7 @@
 **🛠️ Infra and Tools**
 ![Google Cloud](https://img.shields.io/badge/googlecloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white) 
 
-
+***
 
 ### 📋 Project
 **DB보험금융공모전**
@@ -25,10 +27,12 @@
 * 2025 SMT 경제 학회 학회원
 * 우리 FISA 6기 참가중
 
+***
 
 ### 🔅 Personality
 **# INFP**
 과정에 어려움이 있어도 끝까지 완주하는 타입
+
 
 
 
