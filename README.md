@@ -1,7 +1,6 @@
 ## Hi 👩🏻‍💻☺️
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=360&text=Sumin+Koh&fontSize=70&fontAlign=50&fontAlignY=45&desc=AI+Engineering&descSize=30&descAlign=50&descAlignY=60)
-
 ### ✍🏼 Major
 
 **Economics & Data Science**
@@ -21,7 +20,9 @@
 
 ### 📋 Project
 **DB보험금융공모전**
-
+**교내 경제학과 학술제**
+* 2025 SMT 경제 학회 학회원
+* 우리 FISA 6기 참가중
 
 
 ### 🔅 Personality
