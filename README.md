@@ -1,17 +1,23 @@
 ## Hi 👩🏻‍💻☺️
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=360&text=Sumin+Koh&fontSize=70&fontAlign=50&fontAlignY=45&desc=AI+Engineering&descSize=30&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=360&text=Sumin+Koh&fontSize=70&fontAlign=50&fontAlignY=45&desc=AI+Engineering&descSize=30&descAlign=50&descAlignY=60)
 
 ### ✍🏼 Major
 
 **Economics & Data Science**
 
+
+
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/r-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white) 
 
+
+
 **🛠️ Infra and Tools**
 ![Google Cloud](https://img.shields.io/badge/googlecloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white) 
+
+
 
 ### 📋 Project
 
