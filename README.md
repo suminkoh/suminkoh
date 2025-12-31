@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi 👩🏻‍💻☺️
 
-<!--
-**suminkoh/suminkoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=360&text=Sumin+Koh&fontSize=70&fontAlign=50&fontAlignY=45&desc=AI+Engineering&descSize=30&descAlign=50&descAlignY=60)
 
-Here are some ideas to get you started:
+### ✍🏼 Major
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Economics & Data Science**
+
+### 🦾 Skills
+**🧑‍💻 Lang and Frameworks**
+![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/r-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white) 
+
+**🛠️ Infra and Tools**
+![Google Cloud](https://img.shields.io/badge/googlecloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white) 
+
+### 📋 Project
+
+
+
+### 🔅 Personality
+**# INFP**
+
+
+
+
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsuminkoh%2Fsuminkoh.git&label=sumin%27s&icon=github&color=%23e685b5&message=&style=plastic&tz=UTC)
